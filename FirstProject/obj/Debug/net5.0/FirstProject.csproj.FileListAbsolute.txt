@@ -1,0 +1,15 @@
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/bin/Debug/net5.0/FirstProject.deps.json
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/bin/Debug/net5.0/FirstProject.runtimeconfig.json
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/bin/Debug/net5.0/FirstProject.runtimeconfig.dev.json
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/bin/Debug/net5.0/FirstProject.dll
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/bin/Debug/net5.0/ref/FirstProject.dll
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/bin/Debug/net5.0/FirstProject.pdb
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.csprojAssemblyReference.cache
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.AssemblyInfoInputs.cache
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.AssemblyInfo.cs
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.csproj.CoreCompileInputs.cache
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.dll
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/ref/FirstProject.dll
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.pdb
+/Users/andressanowasyk/Documents/GitHub/first-dotnet-project/FirstProject/obj/Debug/net5.0/FirstProject.genruntimeconfig.cache
